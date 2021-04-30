@@ -1,0 +1,4 @@
+packages: p q
+
+
+executable-dynamic: True
